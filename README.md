@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aagambapna3000, a current sophomore in high school
+- 👋 Hi, I’m Aagam Bapna, a current sophomore in high school
 - 👑 Interested in quantitative finance, data science, and tech
 - ⚡ Proficient in C++, Java, and Python
 - 👀 I’m currently looking for engineering internshups 
