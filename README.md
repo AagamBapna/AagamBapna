@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Aagam Bapna, a current sophomore in high school
+- 🏆Currently a Gold Divison in the United States of America Computing Olympiad (Top 200 across the nation)
 - 👑 Interested in quantitative finance, data science, and tech
 - ⚡ Proficient in C++, Java, and Python
 - 👀 I’m currently looking for engineering internships
