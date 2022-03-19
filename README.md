@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Aagam Bapna, a current sophomore in high school
 - 👑 Interested in quantitative finance, data science, and tech
 - ⚡ Proficient in C++, Java, and Python
-- 👀 I’m currently looking for engineering internshups 
+- 👀 I’m currently looking for engineering internships
+- 🤹 Skilled in MATLAB, Geographic Information System, and Microsoft Excel
 - 📫 Reach me on aagambapna@gmail.com 
 
 <!---
