@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aagam Bapna, a current sophomore in high school
 - 🏆Currently a Gold Divison in the United States of America Computing Olympiad (Top 200 high schoolers across the nation)
-- 🏆I have also qualified for Round 2 of Google Code Jam (Top 3000 out of 32007) consisting of all programmers above 16
+- 🏆I have also qualified for Round 2 of Google Code Jam (Top 4500 out of 32007) consisting of all programmers above 16
 - 👑 Interested in quantitative finance, data science, and tech
 - ⚡ Proficient in C++, Java, and Python
 - 👀 I’m currently looking for engineering internships
