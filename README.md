@@ -3,9 +3,9 @@
 - 🏆I have also qualified for Round 2 of Google Code Jam (Top 4500 out of 32007) consisting of all programmers above 16
 - 👑 Interested in quantitative finance, data science, and tech
 - ⚡ Proficient in C++, Java, and Python
-- 👀 I’m currently looking for engineering internships
+- 👀 I’m actively looking for internships
 - 🤹 Skilled in MATLAB, Geographic Information System, and Microsoft Excel
-- 📫 Reach me on aagambapna@gmail.com 
+- 📫 Reach me on aagambapna@gmail.com for my resume 
 
 <!---
 aagambapna3000/aagambapna3000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
