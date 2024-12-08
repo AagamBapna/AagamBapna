@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Aagam Bapna
 
-- 🎓 **Computer Science Student** at Purdue University, pursuing a minor in Statistics (Expected Graduation: May 2027)
-- 💻 **Current Role**: Machine Learning Intern at BASF, working on advanced data analytics to optimize agricultural practices
+- 🎓 **Computer Science Student** at Purdue University (Expected Graduation: May 2027)
+- 💻 **Current Role**: Software Engineering Intern at BASF, working on advanced data analytics to optimize agricultural practices
 - 🏆 **Achievements**:
   - Gold Division competitor in the United States of America Computing Olympiad (Top 200 nationwide)
   - Qualified for Round 2 of Google Code Jam, ranking in the top 2000 out of over 32,000 participants globally
